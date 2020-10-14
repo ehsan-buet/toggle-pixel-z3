@@ -1,3 +1,4 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ajtlVjAE2GfIUkOBJH7M_-faqlt6xKj1?usp=sharing)]
 # toggle-pixel-z3
 
 There are 3 sections in the notebook. 
