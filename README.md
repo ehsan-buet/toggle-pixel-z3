@@ -1,12 +1,15 @@
 # toggle-pixel-z3
 
-
-Please run all the cells of the first 2 sections in the notebook to load test images, trained weights and helper functions. 
-
+There are 3 sections in the notebook. 
 
 Section 1. Load image 
 
 Section 2. Functions 
+
+Section 3. Result
+
+
+Please run all the cells of the first 2 sections in the notebook to load test images, trained weights and helper functions. 
 
 
 
@@ -17,4 +20,5 @@ toggle = 25 (Number of pixels to be flipped)
 t = 100 (Timeout)
 
 start_id = 50 (Starting image id)
+
 end_id = 80 (Last image id)
